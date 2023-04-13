@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="MFN.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,792 H 612 V 0 H 0 Z"
+         id="path14" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="MFN"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,1056)">
+    <g
+       id="g10">
+      <g
+         id="g12"
+         clip-path="url(#clipPath16)">
+        <g
+           id="g18"
+           transform="translate(196.6499,516.5421)">
+          <path
+             d="M 0,0 105.07,-84.06 V 38.32 l -124.15,99.32 c -31.61,25.29 -78.4,2.78 -78.4,-37.68 v -129.94 -195.73 -25 l 11.629,-9.309 c 0.001,-10e-4 0.001,-10e-4 0.001,-10e-4 l 22.71,-18.16 c 0,0 0,0 0,0 l 59.3,-47.44 1.9,-1.52 v 55.51 143.24 l 1.94,-1.55 57.3,-45.84 v 94.01 L 43.92,-71.06 0,-35.92 -1.94,-34.37 V 1.55 Z"
+             style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path20" />
+        </g>
+        <g
+           id="g22"
+           transform="translate(513.8301,616.4974)">
+          <path
+             d="m 0,0 v -350.15 l -95.54,-76.43 v 328.17 l -3.84,-3.07 -7.63,-6.1 v -327.13 l -95.54,-76.44 v 449.51 l 70.22,56.18 53.93,43.14 C -46.8,62.96 0,40.46 0,0"
+             style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path24" />
+        </g>
+        <g
+           id="g26"
+           transform="translate(296.1,664.8526)">
+          <path
+             d="m 0,0 c 0,-11.487 -9.313,-20.8 -20.8,-20.8 -11.488,0 -20.8,9.313 -20.8,20.8 0,11.488 9.312,20.8 20.8,20.8 C -9.313,20.8 0,11.488 0,0"
+             style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path28" />
+        </g>
+        <g
+           id="g30"
+           transform="translate(358.5,664.8526)">
+          <path
+             d="m 0,0 c 0,-11.487 -9.313,-20.8 -20.8,-20.8 -11.488,0 -20.8,9.313 -20.8,20.8 0,11.488 9.312,20.8 20.8,20.8 C -9.313,20.8 0,11.488 0,0"
+             style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path32" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

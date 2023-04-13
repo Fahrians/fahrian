@@ -1,0 +1,84 @@
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 4rem;
+    line-height: 1.5;
+    font-weight: 900;
+    margin-top: 7%;
+    color: white;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    color: white;
+
+}
+
+#navigasi {
+    padding: 0% 15%;
+}
+
+#logo-mfn {
+    height: 70px;
+}
+
+.nav-link {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: rgb(82, 82, 82);
+
+}
+
+.container-fluid {
+    padding-left: 0;
+}
+
+.utama {
+    background-color: rgb(83, 77, 255);
+    padding: 7% 15% 0% 15%;
+}
+
+.fotoku {
+    /* background-color: rgb(242, 153, 36); */
+    text-align: center;
+}
+
+.col-lg-6 img {
+    height: 600px;
+}
+
+.bawah {
+    padding: 10px 0px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(32, 32, 32);
+    text-align: center;
+}
+
+    /* Smartphone */
+@media (max-width: 600px) {
+    
+    h1 {
+    font-size: 2.5rem;
+    }
+
+    p {
+        font-size: 1.5rem;
+    }
+
+    .col-lg-6 img {
+        height: 200px;
+    }
+}
+
+    /* Ipad */
+@media (max-width: 985px) {
+
+    #title {
+    text-align: center;
+    }
+    
+    .col-lg-6 img {
+            height: 400px;
+    }
+}
